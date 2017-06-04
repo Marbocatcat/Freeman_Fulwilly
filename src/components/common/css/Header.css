@@ -1,0 +1,9 @@
+section {
+  font-family: 'Avenir Next', 'Helvetica Neue', 'Helvetica', 'Arial';
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.container {
+  padding: 6rem 12rem 6rem 12rem
+}
